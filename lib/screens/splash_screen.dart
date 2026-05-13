@@ -14,7 +14,7 @@ class SplashScreen extends StatefulWidget {
 class _SplashScreenState extends State<SplashScreen> {
   final PageController _pageController = PageController();
 
-  int currentPage = 2;
+  int currentPage = 0;
   bool showIntro = false;
 
   @override

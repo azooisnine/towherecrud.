@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import '../model/tiket_model.dart';
 
 class TiketPage extends StatelessWidget {
   final Tiket tiket;
